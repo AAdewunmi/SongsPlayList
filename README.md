@@ -1,4 +1,4 @@
-# Project Brief:
+# Project Brief (WORK-IN-PROGRESS):
 
 Create a program that implements a playlist for songs.
 Create a Song class having Title and Duration for a song.
