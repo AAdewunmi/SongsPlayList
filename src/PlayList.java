@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TestAlbum {
+public class PlayList {
 
     private static final ArrayList<Album> albums = new ArrayList<Album>();
 
