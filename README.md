@@ -1,5 +1,10 @@
 # Project Brief (WORK-IN-PROGRESS):
 
+* Section 9: LinkedList Challenge (Part 1, 2 & 3)
+* Java Programming Masterclass for Software Developers
+* Created by Tim Buchalka (Tim Buchalka's Learn Programming Academy - Udemy)
+* https://www.udemy.com/course/java-the-complete-java-developer-course/
+
 Create a program that implements a playlist for songs.
 Create a Song class having Title and Duration for a song.
 The program will have an Album class containing a list of songs.
