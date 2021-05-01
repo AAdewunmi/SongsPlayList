@@ -1,4 +1,6 @@
-# Project Brief:
+# PlayList Application
+
+### Project Brief:
 
 Create a program that implements a playlist for songs.
 Create a Song class having Title and Duration for a song.
@@ -11,6 +13,21 @@ Once the songs have been added to the playlist, create a menu of options to:-
 1. Quit, Skip, forward to the next song, skip backwards to a previous song.  Replay the current song.
 2. List the songs in the playlist
 3. A song must exist in an album before it can be added to the playlist (so you can only play songs that you own).
+
+### Installing:
+
+1. Clone the repo
+
+```
+https://github.com/AAdewunmi/SongsPlayList.git
+```
+
+2. Open Project Folder
+
+
+3. Explore
+
+Enjoy :)
 
 ### Source:
 
